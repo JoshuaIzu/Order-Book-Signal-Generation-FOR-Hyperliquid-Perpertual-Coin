@@ -1,4 +1,4 @@
-tensorflow==2.16.0rc2
+tensorflow==>2.16.0rc2
 pyarrow==15.0.0
 streamlit==1.32.0
 ccxt==4.2.23
