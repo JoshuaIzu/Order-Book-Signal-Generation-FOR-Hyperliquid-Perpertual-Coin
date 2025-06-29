@@ -2,5 +2,5 @@ streamlit==1.32.0
 ccxt==4.2.23
 pandas==2.1.4
 numpy==1.26.2
-tensorflow==--prerelease=allow
+tensorflow==2.16.0rc1
 python-dateutil==2.8.2
